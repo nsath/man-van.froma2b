@@ -1,0 +1,14 @@
+User-agent: Googlebot
+User-agent: Baiduspider
+User-agent: bingbot
+User-agent: YandexBot
+User-agent: Sosospider
+User-agent: Exabot
+User-agent: Sogou web spider
+User-agent: meta-externalagent
+User-agent: Feedfetcher-Google
+User-agent: GPTBot
+User-agent: ClaudeBot
+User-agent: PerplexityBot
+
+Disallow: /mailer.php
